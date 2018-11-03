@@ -1,3 +1,7 @@
-1 + 1
+put 1 + 1
 
-1 + "is the loneliest number"
+num = 1 
+num1 = 1 
+
+puts num + num2 
+
